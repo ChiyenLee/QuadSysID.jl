@@ -1,0 +1,4 @@
+name = "QuadSysID"
+uuid = "bd43cbab-ca4c-46ee-889f-022fe95b7e6b"
+authors = ["ChiyenLee <chiyenl@cs.cmu.edu>"]
+version = "0.1.0"
