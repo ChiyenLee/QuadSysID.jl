@@ -2,3 +2,9 @@ name = "QuadSysID"
 uuid = "bd43cbab-ca4c-46ee-889f-022fe95b7e6b"
 authors = ["ChiyenLee <chiyenl@cs.cmu.edu>"]
 version = "0.1.0"
+
+[deps]
+ApproxFun = "28f2ccd6-bb30-5033-b560-165f7b14dc2f"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
