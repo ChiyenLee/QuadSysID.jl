@@ -3,7 +3,7 @@ using ForwardDiff
 const x_hip = 0.183 # hip dispalcement from the trunk frame 
 const y_hip = 0.047 
 const Δy_thigh = 0.08505 # thigh displacement from the hip frame 
-const l_limb = 0.2 
+const l_limb = 0.20
 
 """
     fk(q::AbstractVector{T})
